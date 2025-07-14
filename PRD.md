@@ -84,7 +84,7 @@ The application's functionality is divided into two main components: the ActionH
 * **Frontend Framework:** **React with TypeScript**.  
 * **Core Framework:** Electron.  
 * **CSS Framework:** The UI will be built using the **Tailwind CSS** utility-first framework.  
-* **Platform:** Cross-platform (macOS, Windows, and Linux).  
+* **Platform:** Cross-platform (macOS, Windows, and Linux, iOS, Android).  
 * **Database:** **PostgreSQL (user-hosted)**.  
 * **Schema Management:** Automated schema migration with transactional safety.  
 * **Credential Storage:** Secure storage via the native OS keychain (keytar).  
